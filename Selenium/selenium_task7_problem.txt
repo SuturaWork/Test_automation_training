@@ -1,0 +1,1 @@
+I couldn't solve the selenium task 7, because the linked example website is not available and I couldn't find another demo page for this task.
